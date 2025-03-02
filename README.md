@@ -3,7 +3,7 @@
 ## 📌 Overview
 **PCOSaathi** is an AI-powered health companion designed to support women in managing PCOS (Polycystic Ovary Syndrome) by providing personalized health recommendations. Submitted under the **Infosys Springboard iAccelerate Women’s Hackathon 2025**.
 
-The application leverages **machine learning** to analyze women's health data and provide **personalized health recommendations**.It clusters users based on key health parameters like **weight gain, hair loss, acne, period regularity, and exercise** to generate insights for managing conditions like **PCOS (Polycystic Ovary Syndrome)**.
+The application leverages **machine learning** to analyze women's health data and provide **personalized health recommendations**.It clusters users based on key health parameters like **weight gain, hair loss, acne, period regularity, and exercise, etc** to generate insights for managing conditions like **PCOS (Polycystic Ovary Syndrome)**.
 
 The application is built using **Streamlit** for the frontend, with **Agglomerative Clustering** and **Gaussian Mixture Models (GMM)** for clustering. The recommendations are tailored to cluster women based on their health needs and prefrences in context of Indian dietary habits and lifestyle preferences.
 
