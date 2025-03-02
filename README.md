@@ -1,7 +1,7 @@
-# Women's Health Clustering & Personalized Recommendations
+# PCOSaathi : Women's Health Clustering & Personalized Recommendations
 
 ## 📌 Overview
-PCOSaathi is an AI-powered health companion designed to support women in managing PCOS (Polycystic Ovary Syndrome) by providing personalized health recommendations. Submitted under the **Infosys Springboard iAccelerate Women’s Hackathon 2025**, this project uses machine learning to analyze women's health data and offer insights tailored to Indian dietary habits and lifestyle preferences.
+**PCOSaathi** is an AI-powered health companion designed to support women in managing PCOS (Polycystic Ovary Syndrome) by providing personalized health recommendations. Submitted under the **Infosys Springboard iAccelerate Women’s Hackathon 2025**.
 
 The application leverages **machine learning** to analyze women's health data and provide **personalized health recommendations**.It clusters users based on key health parameters like **weight gain, hair loss, acne, period regularity, and exercise** to generate insights for managing conditions like **PCOS (Polycystic Ovary Syndrome)**.
 
@@ -63,15 +63,15 @@ The application is built using **Streamlit** for the frontend, with **Agglomerat
 3. **Personalized health recommendations**: The app provides practical, culturally relevant health advice.
 
 ## Archetecture Diagram
-| ![Diagram](C:/Users/jyots/OneDrive/Desktop/Women-Health/assets/architecture_women.jpg) |
+| ![Diagram](https://github.com/jyotsna030/PCOSaathi/blob/main/assets/architecture_women.jpg.png) |
 
 ## FlowChart
-| ![FlowChart](C:/Users/jyots/OneDrive/Desktop/Women-Health/women-flowchart.png) |
+| ![FlowChart](https://github.com/jyotsna030/PCOSaathi/blob/main/women-flowchart.png) |
 
 ## 🖼 Screenshots
 | Input Section | Recommendation Output |
 |-----------|--------------|-----------------------|
-| ![Input](C:/Users/jyots/OneDrive/Desktop/Women-Health/assets/Pic_1.png) | ![Output](C:/Users/jyots/OneDrive/Desktop/Women-Health/assets/Pic_2.png) |
+| ![Input](https://github.com/jyotsna030/PCOSaathi/blob/main/assets/Pic_1.png) | ![Output](https://github.com/jyotsna030/PCOSaathi/blob/main/assets/Pic_2.png) |
 
 ## 🎥 Demo Video
 Watch the full demo on YouTube: [YouTube Link Here](https://youtu.be/example)
