@@ -74,7 +74,7 @@ The application is built using **Streamlit** for the frontend, with **Agglomerat
 | ![Input](https://github.com/jyotsna030/PCOSaathi/blob/main/assets/Pic_1.png) | ![Output](https://github.com/jyotsna030/PCOSaathi/blob/main/assets/Pic_2.png) |
 
 ## 🎥 Demo Video
-Watch the full demo on YouTube: [YouTube Link Here](https://youtu.be/example)
+Watch the full demo on YouTube: [YouTube Link Here](https://youtu.be/CkTIu8qL9Mg?si=4wdsHI7fi5PewnPj)
 
 ## Future Scope
 Here’s a well-defined **Future Scope** section you can add to your README:  
